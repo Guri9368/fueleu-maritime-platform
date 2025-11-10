@@ -100,6 +100,7 @@ frontend/
 text
 
 ---
+<img width="1916" height="932" alt="image" src="https://github.com/user-attachments/assets/5064dc56-afdd-434c-8faf-1b55ef954cd5" />
 
 ## 📦 Prerequisites
 
@@ -210,6 +211,7 @@ text
 text
 
 ### Frontend Application
+
 
 Open a **new terminal**:
 
@@ -358,7 +360,7 @@ text
 
 ---
 
-<img width="1916" height="932" alt="image" src="https://github.com/user-attachments/assets/5064dc56-afdd-434c-8faf-1b55ef954cd5" />
+
 
 ## 🔒 Security
 
@@ -420,3 +422,4 @@ For any issues or questions:
 ---
 
 **Made with ❤️ for FuelEU Maritime Compliance**
+
